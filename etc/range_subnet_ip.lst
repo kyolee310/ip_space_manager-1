@@ -1,0 +1,4 @@
+#SUBNET IP RANGE
+default	172.26.0.0	172.30.0.0
+reserved	172.26.0.0	172.30.0.0
+manual	172.31.0.0	172.32.0.0
